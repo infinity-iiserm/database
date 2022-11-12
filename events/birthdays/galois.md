@@ -9,3 +9,6 @@ After he was released from jail, he tried giving math lessons but due to his unc
 He was 20 when he died. He was Évariste Galois. Little did he know during his final moments that what he wrote would keep mathematicians busy for the next 200 years. His writings founded group theory and Galois theory.
 
 We wish Évariste Galois a happy birthday! The man nobody understood. The man who never lived. Today, his contributions are so fundamental to mathematics and have applications in various areas of sciences.
+
+With best wishes,
+Ronald
