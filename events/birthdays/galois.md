@@ -12,4 +12,6 @@ We wish Évariste Galois a happy birthday! The man nobody understood. The man wh
 
 ________________________
 
-The above text was written (prepared) by Ronald Huidrom to celebrate Galois, one of the greatest minds, on his birthday.
+Written by: Ronald Huidrom
+
+Celebrating the life of one of the greatest and most tragic mathematical minds ever.
