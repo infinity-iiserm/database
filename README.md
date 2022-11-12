@@ -1,2 +1,3 @@
-# database
-Database for events, members and such
+# Database
+
+To see the list of events, go [here](events).
