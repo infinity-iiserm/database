@@ -16,3 +16,4 @@
 | Date          | Mathematician  | Title       |
 | ------------  | -------------- | ----------- |
 | Oct. 25, 2022 | Évariste Galois | [The Man Who Never Lived](birthdays/galois.md) |
+
