@@ -2,7 +2,7 @@
 
 | Date          | Event       | Venue | Description |
 | -----------   | ----------- | ------| ----------- |
-| Nov. 18, 2022 | Strategic Game Night | LH4 | Solving Nim and more |
+| Nov. 18, 2022 | Strategic Game Night | LH4 | Decipher a game  |
 | Nov. 11, 2022 | InfinityJam | H7 SR | Brainstorm on logic puzzles |
 
 ## Fests
