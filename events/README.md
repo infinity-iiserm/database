@@ -1,5 +1,9 @@
 ## Events
 
+Planned:
+- Jan 2023: Treasure Hunt, Hackathon, Battle Royale, Hilbert Day
+- Dec 2022: Ramanujan Day, Newtonmas
+
 | Date          | Event       | Venue | Description |
 | -----------   | ----------- | ------| ----------- |
 | Nov. 24, 2022 | Meet a Mathematician: Neeraja Sahasrabudhe | TBD | Mathematician's life & Q/A session |
