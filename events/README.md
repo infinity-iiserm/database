@@ -2,7 +2,7 @@
 
 | Date          | Event       | Venue | Description |
 | -----------   | ----------- | ------| ----------- |
-| Nov. 24, 2022 | Meet a Mathematician | TBD | Mathematician's life & Q/A session |
+| Nov. 24, 2022 | Meet a Mathematician: Neeraja Sahasrabudhe | TBD | Mathematician's life & Q/A session |
 | Nov. 18, 2022 | Strategic Game Night | LH4 | Decipher a game  |
 | Nov. 11, 2022 | InfinityJam | H7 SR | Brainstorm on logic puzzles |
 
