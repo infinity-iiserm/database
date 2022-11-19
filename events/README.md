@@ -6,8 +6,8 @@ Planned:
 
 | Date          | Event       | Venue | Description |
 | -----------   | ----------- | ------| ----------- |
-| Nov. 24, 2022 | Meet a Mathematician: Neeraja Sahasrabudhe | TBD | Mathematician's life & Q/A session |
-| Nov. 18, 2022 | Strategic Game Night | LH4 | Decipher a game  |
+| Nov. 24, 2022 | Meet a Mathematician: Neeraja Sahasrabudhe | LH6 | Mathematician's life & Q/A session |
+| Nov. 18, 2022 | Strategic Game Night | LH4 | Chomp tournament, 42 participants |
 | Nov. 11, 2022 | InfinityJam | H7 SR | Brainstorm on logic puzzles |
 
 ## Fests
