@@ -2,4 +2,8 @@
 
 ## Events
 
-To see the list of events, go [here](events). Events are ordered from most recent to oldest.
+[Events](events) are ordered from most recent to oldest.
+
+## Volunteers
+
+[Volunteers](volunteers) for each event are listed in the order of their registration number.
