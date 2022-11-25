@@ -6,4 +6,4 @@
 
 ## Volunteers
 
-[Volunteers](volunteers) for each event are listed in the order of their registration number.
+[Volunteers](volunteers.tsv) for each event are listed in the order of their registration number.
