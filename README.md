@@ -6,4 +6,4 @@
 
 ## Volunteers
 
-All [volunteers](volunteers.tsv) are listed in the order of their registration number.
+All [volunteers](volunteers.csv) are listed in the order of their registration number.
