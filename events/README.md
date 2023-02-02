@@ -1,11 +1,8 @@
 ## Events
 
-Planned:
-- Jan 2023: Treasure Hunt, Hackathon, Battle Royale, Hilbert Day
-- Dec 2022: Ramanujan Day, Newtonmas
-
 | Date          | Event       | Venue | Description |
 | -----------   | ----------- | ------| ----------- |
+| Jan. 27, 2023 | Everything, Everywhere, All at Once: A Story of Moduli Problems | Virtual | Alumnus talk |
 | Nov. 24, 2022 | Meet a Mathematician: Neeraja Sahasrabudhe | LH6 | Mathematician's life & Q/A session |
 | Nov. 18, 2022 | Strategic Game Night | LH4 | Chomp tournament, 42 participants |
 | Nov. 11, 2022 | InfinityJam | H7 SR | Brainstorm on logic puzzles |
